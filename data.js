@@ -13,7 +13,7 @@ const cardsData = [
         title: 'SpotyCharts',
         image: 'charts.png',
         lien: 'https://spotycharts.gatienh.fr/',
-        available: false,
+        available: true,
     },
 ]
 
