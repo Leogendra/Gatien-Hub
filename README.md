@@ -2,4 +2,4 @@
 
 ## https://hub.gatienh.fr
 
-Un petit site pour des petits jeux 😉
+Un petit site pour regrouper des petits jeux 🤠
