@@ -4,16 +4,24 @@ const cardsData = [
         image: 'match.png',
         lien: 'https://spotymatch.gatienh.fr/',
         available: true,
-    },{
+    },
+    {
         title: 'Quizz Drapeaux',
         image: 'drapeaux.png',
         lien: 'https://drapeaux.gatienh.fr/',
         available: true,
-    },{
+    },
+    {
         title: 'SpotyCharts',
         image: 'charts.png',
         lien: 'https://spotycharts.gatienh.fr/',
         available: true,
+    },
+    {
+        title: 'Whozdat',
+        image: 'whozdat.png',
+        lien: '',
+        available: false,
     },
 ]
 
