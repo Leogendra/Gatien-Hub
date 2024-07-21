@@ -20,8 +20,8 @@ const cardsData = [
     {
         title: 'Whozdat',
         image: 'whozdat.png',
-        lien: '',
-        available: false,
+        lien: 'https://whozdat.gatienh.fr/',
+        available: true,
     },
 ]
 
