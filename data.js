@@ -23,6 +23,12 @@ const cardsData = [
         lien: 'https://whozdat.gatienh.fr/',
         available: true,
     },
+    {
+        title: 'Billions Charts',
+        image: 'billions.png',
+        lien: 'https://billions-charts.gatienh.fr/',
+        available: true,
+    },
 ]
 
 const container = document.getElementById('cards-container');
